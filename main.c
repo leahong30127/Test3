@@ -14,7 +14,7 @@ int multy(int a, int b)
 }
 
 int main(void) {
-    //printf("hello My world is wonderful!!\n");
+    
 	printf("%d+%d=%d",1,2,1+2);
 
     return 0;
