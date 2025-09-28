@@ -1,5 +1,6 @@
 #include <stdio.h>
-commit 1
+commit 2
+
 int add(int a, int b)
 {
 	return a+b;
